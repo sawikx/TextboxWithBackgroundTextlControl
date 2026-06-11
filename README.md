@@ -3,6 +3,7 @@
 User interface component that extends the standard text input field (TextBox). The control offering built-in support for greyed-out prompt text and an integrated mechanism to clear the field's contents instantly.
 
 TextboxWithBackgroundTextlControl is made under 64bit Windows 10 with Visual Studio 2026 Community Edition.
+
 Key Features & Behavior:
 
 * Background Text (Placeholder): Displays a helpful hint or instruction inside the control whenever the field is empty.
